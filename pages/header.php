@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Class 12 - Classifieds Site (EXTRA)</title>
+		<title>Classifieds Site</title>
 		<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
 		<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 		<script type="text/javascript" src="assets/js/jquery-3.3.1.min.js"></script>
